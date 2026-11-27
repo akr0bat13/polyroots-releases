@@ -1,0 +1,11 @@
+{
+  "platform": "android",
+  "version": "1.2.0",
+  "build": 12,
+  "tag": "android-v1.2.0",
+  "file": "Polyroots-Android-1.2.0.apk",
+  "size_bytes": 1419579,
+  "sha256": "<64 hex characters, computed from the file>",
+  "repository": "akr0bat13/polyroots-releases",
+  "published": false
+}
